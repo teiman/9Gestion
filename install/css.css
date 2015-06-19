@@ -1,0 +1,49 @@
+
+/*General styles not really related to the forms*/
+
+* {
+
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:#FFF;
+}
+
+img {
+	border:0;
+}
+
+
+#container {
+	padding:20px;
+}
+
+
+
+/*Forms defaults*/
+
+input, textarea {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+input[type=text]{
+	font-family: Courier,Terminal,Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color: #ffc;
+	padding: 2px;
+}
+
+
+
+label {
+	color:#555;
+	cursor:pointer;
+	padding-left:2px;
+	line-height:15px;
+	vertical-align:top;
+}
+
+

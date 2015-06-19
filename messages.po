@@ -1,0 +1,1371 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-22 16:46+0200\n"
+"PO-Revision-Date: 2008-04-22 16:49+0100\n"
+"Last-Translator: oscar  <9lands@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+
+#: modalbaranes.php:45
+msgid "Mostrar"
+msgstr ""
+
+#: modalmacenes.php:62
+#: modproductos.php:51
+msgid "Trabajar con seleccion"
+msgstr ""
+
+#: modalmacenes.php:63
+#: modproductos.php:52
+msgid "Deseleccionar"
+msgstr ""
+
+#: modalmacenes.php:73
+msgid "Tallas/Colores"
+msgstr ""
+
+#: modalmacenes.php:75
+#: modalmacenes.php:168
+#: modalmacenes.php:423
+#: modproductos.php:97
+#: modproductos.php:201
+msgid "Referencia"
+msgstr ""
+
+#: modalmacenes.php:76
+#: modclientes.php:234
+#: modcompras.php:125
+#: modmodistos.php:203
+#: modproductos.php:60
+#: modproductos.php:431
+#: modproveedores.php:203
+#: xulalmacen.php:38
+#: xulalmacen.php:70
+#: xulavanzado.php:91
+#: xulcompras.php:49
+#: xulcompras.php:77
+#: xulcompras.php:109
+#: xulmenu4.php:267
+#: xulmenu4.php:283
+#: xulmenu4.php:321
+#: xulmenu4.php:391
+#: xulmenu4.php:399
+#: xulmenu4.php:422
+#: xulmenu4.php:471
+#: xulmenu4.php:487
+#: xulproductos.php:75
+msgid "Buscar"
+msgstr ""
+
+#: modalmacenes.php:79
+#: modproductos.php:189
+#: xulalmacen.php:54
+#: xulcompras.php:62
+#: xulcompras.php:93
+#: xulmenu4.php:299
+#: xulmenu4.php:406
+#: xulmenu4.php:435
+#: xulmenu4.php:479
+#: xulproductos.php:72
+msgid "CB"
+msgstr ""
+
+#: modalmacenes.php:132
+msgid "Sin resultados"
+msgstr ""
+
+#: modalmacenes.php:166
+#: modclientes.php:233
+#: modcompras.php:31
+#: modcompras.php:124
+#: modmodistos.php:202
+#: modproductos.php:430
+#: modproveedores.php:202
+#: xulcompras.php:48
+#: xulcompras.php:55
+#: xulcompras.php:71
+#: xulmenu4.php:392
+#: xulmenu4.php:428
+#: xulmenu4.php:440
+#: xulmenu4.php:448
+msgid "Comprar"
+msgstr ""
+
+#: modalmacenes.php:167
+#: modclientes.php:34
+#: modfamilias.php:46
+#: modfamilias.php:101
+#: modlocal.php:26
+#: modmodistos.php:42
+#: modperfiles.php:29
+#: modproductos.php:96
+#: modproductos.php:196
+#: modproveedores.php:43
+#: modusers.php:29
+msgid "Modificar"
+msgstr ""
+
+#: modalmacenes.php:169
+#: modcompras.php:34
+#: modproductos.php:98
+#: modproductos.php:202
+msgid "Unid"
+msgstr ""
+
+#: modalmacenes.php:170
+#: modalmacenes.php:432
+#: modcompras.php:35
+#: modproductos.php:99
+#: modproductos.php:203
+msgid "PV"
+msgstr ""
+
+#: modalmacenes.php:171
+#: modproductos.php:204
+msgid "Seleccionar"
+msgstr ""
+
+#: modalmacenes.php:172
+msgid "¿Cuantas unidades?"
+msgstr ""
+
+#: modalmacenes.php:254
+msgid "Peticion de compra"
+msgstr ""
+
+#: modalmacenes.php:255
+msgid "Cantidad:"
+msgstr ""
+
+#: modalmacenes.php:256
+msgid "Enviar:"
+msgstr ""
+
+#: modalmacenes.php:257
+msgid "Proveedor habitual:"
+msgstr ""
+
+#: modalmacenes.php:264
+msgid "No se puede realizar la operacion"
+msgstr ""
+
+#: modalmacenes.php:344
+msgid "Destino:"
+msgstr ""
+
+#: modalmacenes.php:345
+#: selimpresion.php:76
+msgid "Enviar"
+msgstr ""
+
+#: modalmacenes.php:412
+msgid "Otras tiendas"
+msgstr ""
+
+#: modalmacenes.php:413
+msgid "todas las tiendas el mismo precio"
+msgstr ""
+
+#: modalmacenes.php:415
+msgid "Motivo mod. existencias"
+msgstr ""
+
+#: modalmacenes.php:417
+msgid "Modificar Existencias"
+msgstr ""
+
+#: modalmacenes.php:420
+#: modclientes.php:81
+#: modclientes.php:192
+#: modproductos.php:200
+#: vercarrito.php:97
+#: xulalmacen.php:62
+#: xulcompras.php:66
+#: xulcompras.php:101
+#: xulmenu4.php:307
+#: xulmenu4.php:414
+#: xulmenu4.php:481
+msgid "Nombre"
+msgstr ""
+
+#: modalmacenes.php:426
+msgid "Descripcion"
+msgstr ""
+
+#: modalmacenes.php:429
+msgid "Existencias"
+msgstr ""
+
+#: modalmacenes.php:434
+msgid "Impuesto"
+msgstr ""
+
+#: modalmacenes.php:454
+msgid "Disponible en venta"
+msgstr ""
+
+#: modalmacenes.php:455
+msgid "En oferta"
+msgstr ""
+
+#: modalmacenes.php:456
+msgid "Stock ilimitado"
+msgstr ""
+
+#: modalmacenes.php:457
+msgid "Stock minimo"
+msgstr ""
+
+#: modalmacenes.php:863
+msgid "No especifico opciones de busqueda"
+msgstr ""
+
+#: modclientes.php:31
+msgid "Lista de cliente"
+msgstr ""
+
+#: modclientes.php:33
+#: modfamilias.php:45
+#: modfamilias.php:100
+#: modlocal.php:27
+#: modmodistos.php:41
+#: modperfiles.php:30
+#: modproductos.php:195
+#: modproveedores.php:42
+#: modusers.php:30
+#: selmarca.php:99
+msgid "Eliminar"
+msgstr ""
+
+#: modclientes.php:35
+msgid "Cliente"
+msgstr ""
+
+#: modclientes.php:36
+msgid "¿Quieren borrar este cliente?"
+msgstr ""
+
+#: modclientes.php:44
+#: modclientes.php:79
+#: modclientes.php:151
+#: modmodistos.php:43
+#: modmodistos.php:88
+#: modmodistos.php:143
+#: modproveedores.php:44
+#: modproveedores.php:89
+#: modproveedores.php:143
+msgid "Nombre comercial"
+msgstr ""
+
+#: modclientes.php:76
+msgid "Modificando cliente"
+msgstr ""
+
+#: modclientes.php:84
+#: modclientes.php:143
+#: modclientes.php:184
+#: modmodistos.php:79
+#: modmodistos.php:134
+#: modproveedores.php:80
+#: modproveedores.php:134
+msgid "Modo pago hab."
+msgstr ""
+
+#: modclientes.php:88
+msgid "Tienda"
+msgstr ""
+
+#: modclientes.php:92
+#: modclientes.php:147
+#: modclientes.php:188
+#: modmodistos.php:86
+#: modmodistos.php:140
+#: modproveedores.php:87
+#: modproveedores.php:140
+msgid "Pais"
+msgstr ""
+
+#: modclientes.php:96
+#: modmodistos.php:83
+#: modmodistos.php:138
+#: modproveedores.php:84
+#: modproveedores.php:138
+msgid "PaginaWeb"
+msgstr ""
+
+#: modclientes.php:99
+#: modclientes.php:152
+#: modclientes.php:193
+#: modmodistos.php:89
+#: modmodistos.php:144
+#: modproveedores.php:90
+#: modproveedores.php:144
+msgid "Nombre legal"
+msgstr ""
+
+#: modclientes.php:100
+#: modclientes.php:153
+#: modclientes.php:194
+#: modmodistos.php:90
+#: modmodistos.php:145
+#: modproveedores.php:91
+#: modproveedores.php:145
+msgid "Direccion"
+msgstr ""
+
+#: modclientes.php:101
+#: modclientes.php:154
+#: modclientes.php:195
+#: modmodistos.php:91
+#: modmodistos.php:146
+#: modproveedores.php:92
+#: modproveedores.php:146
+msgid "Localidad"
+msgstr ""
+
+#: modclientes.php:102
+#: modclientes.php:155
+#: modclientes.php:196
+#: modmodistos.php:92
+#: modmodistos.php:147
+#: modproveedores.php:93
+#: modproveedores.php:147
+msgid "Codigo postal"
+msgstr ""
+
+#: modclientes.php:103
+#: modclientes.php:156
+#: modclientes.php:197
+#: modmodistos.php:93
+#: modmodistos.php:148
+#: modproveedores.php:94
+#: modproveedores.php:148
+msgid "Telf.(1)"
+msgstr ""
+
+#: modclientes.php:104
+#: modclientes.php:157
+#: modclientes.php:198
+#: modmodistos.php:94
+#: modmodistos.php:149
+#: modproveedores.php:95
+#: modproveedores.php:149
+msgid "Telf.(2)"
+msgstr ""
+
+#: modclientes.php:105
+#: modclientes.php:158
+#: modclientes.php:199
+#: modmodistos.php:95
+#: modmodistos.php:150
+#: modproveedores.php:96
+#: modproveedores.php:150
+msgid "Contacto"
+msgstr ""
+
+#: modclientes.php:106
+#: modclientes.php:159
+#: modclientes.php:200
+#: modmodistos.php:96
+#: modmodistos.php:151
+#: modproveedores.php:97
+#: modproveedores.php:151
+msgid "Cargo"
+msgstr ""
+
+#: modclientes.php:107
+#: modclientes.php:160
+#: modclientes.php:201
+#: modmodistos.php:97
+#: modmodistos.php:152
+#: modproveedores.php:98
+#: modproveedores.php:152
+msgid "Email"
+msgstr ""
+
+#: modclientes.php:108
+#: modclientes.php:161
+#: modclientes.php:202
+#: modmodistos.php:98
+#: modmodistos.php:153
+#: modproveedores.php:99
+#: modproveedores.php:153
+msgid "Cuenta bancaria"
+msgstr ""
+
+#: modclientes.php:109
+#: modclientes.php:162
+#: modclientes.php:203
+#: modmodistos.php:99
+#: modmodistos.php:154
+#: modproveedores.php:100
+#: modproveedores.php:154
+msgid "Numero fiscal"
+msgstr ""
+
+#: modclientes.php:110
+#: modclientes.php:163
+#: modclientes.php:204
+#: modmodistos.php:100
+#: modmodistos.php:155
+#: modproveedores.php:101
+#: modproveedores.php:155
+msgid "Comentarios"
+msgstr ""
+
+#: modclientes.php:121
+msgid "Operaciones sobre Clientes"
+msgstr ""
+
+#: modclientes.php:123
+msgid "Crear un nuevo cliente"
+msgstr ""
+
+#: modclientes.php:123
+#: modfamilias.php:195
+#: modlocal.php:129
+#: modmodistos.php:114
+#: modperfiles.php:99
+#: modproductos.php:369
+#: modproveedores.php:114
+#: modtemplates.php:104
+#: modusers.php:117
+msgid "Alta"
+msgstr ""
+
+#: modclientes.php:124
+#: modfamilias.php:196
+#: modmodistos.php:115
+#: modproductos.php:370
+#: modproveedores.php:115
+msgid "Eliminar Todo"
+msgstr ""
+
+#: modclientes.php:140
+#: modclientes.php:181
+#: xulmenu4.php:52
+msgid "Alta cliente"
+msgstr ""
+
+#: modclientes.php:231
+#: modcompras.php:122
+#: modmodistos.php:200
+#: modproductos.php:428
+#: modproveedores.php:200
+msgid "Operaciones sobre la seleccion"
+msgstr ""
+
+#: modclientes.php:233
+msgid "Hacer una compra a clientes"
+msgstr ""
+
+#: modclientes.php:234
+#: modcompras.php:125
+#: modmodistos.php:203
+#: modproductos.php:431
+#: modproveedores.php:203
+msgid "Buscar en el almacen"
+msgstr ""
+
+#: modclientes.php:283
+msgid "Cliente modificado"
+msgstr ""
+
+#: modclientes.php:294
+msgid "Cliente borrado"
+msgstr ""
+
+#: modclientes.php:299
+msgid "No se ha podido borrar el cliente"
+msgstr ""
+
+#: modcompras.php:29
+#: modproductos.php:93
+#: vercarrito.php:100
+#: xulavanzado.php:67
+msgid "Color"
+msgstr ""
+
+#: modcompras.php:30
+#: modproductos.php:94
+#: vercarrito.php:99
+#: xulavanzado.php:74
+msgid "Talla"
+msgstr ""
+
+#: modcompras.php:36
+#: modproductos.php:100
+#: modproductos.php:197
+msgid "Nueva talla o color"
+msgstr ""
+
+#: modcompras.php:124
+#: modproductos.php:430
+#: modproveedores.php:202
+msgid "Hacer una compra a proveedores"
+msgstr ""
+
+#: modcompras.php:153
+#: vercarrito.php:34
+#: vertrans.php:78
+msgid "Quitar"
+msgstr ""
+
+#: modcompras.php:154
+#: vercarrito.php:35
+msgid "Carrito de compra"
+msgstr ""
+
+#: modcompras.php:219
+msgid "Elije local destino"
+msgstr ""
+
+#: modcompras.php:410
+#: modcompras.php:426
+msgid "Producto no encontrado"
+msgstr ""
+
+#: modcompras.php:452
+msgid "Compra terminada"
+msgstr ""
+
+#: modcompras.php:465
+#: modcompras.php:497
+msgid "Producto sacado de carrito"
+msgstr ""
+
+#: modcompras.php:506
+msgid "Producto seleccionado"
+msgstr ""
+
+#: modcompras.php:517
+#: modproductos.php:742
+msgid "No se puede borrar porque aun hay existencias. Primero vacie en almacenes."
+msgstr ""
+
+#: modfamilias.php:35
+msgid "Lista de familias"
+msgstr ""
+
+#: modfamilias.php:47
+#: modfamilias.php:102
+msgid "Crear subfamilia"
+msgstr ""
+
+#: modfamilias.php:48
+#: modfamilias.php:103
+#: selfamilia2.php:181
+msgid "Subfamilia"
+msgstr ""
+
+#: modfamilias.php:57
+#: modmodistos.php:51
+#: modproveedores.php:52
+msgid "seleccion"
+msgstr ""
+
+#: modfamilias.php:89
+msgid "Lista de subfamilias"
+msgstr ""
+
+#: modfamilias.php:193
+msgid "Operaciones sobre Familias"
+msgstr ""
+
+#: modfamilias.php:195
+msgid "Crear un nuevo familia"
+msgstr ""
+
+#: modfamilias.php:253
+msgid "No se ha podido borrar el familia"
+msgstr ""
+
+#: modlocal.php:27
+#: modperfiles.php:30
+#: modusers.php:30
+msgid "¿Seguro que quiere borrar?"
+msgstr ""
+
+#: modlocal.php:32
+msgid "Alta de local"
+msgstr ""
+
+#: modlocal.php:127
+msgid "Operaciones sobre Locales"
+msgstr ""
+
+#: modlocal.php:129
+msgid "Crear una nueva tienda"
+msgstr ""
+
+#: modmodistos.php:27
+#: modproveedores.php:27
+msgid "¿Esta seguro de que quiere eliminarlo?"
+msgstr ""
+
+#: modmodistos.php:32
+msgid "Lista de Modisto"
+msgstr ""
+
+#: modmodistos.php:87
+msgid "Modificando Modisto"
+msgstr ""
+
+#: modmodistos.php:112
+msgid "Operaciones sobre Modistos"
+msgstr ""
+
+#: modmodistos.php:114
+msgid "Crear un nuevo Modisto"
+msgstr ""
+
+#: modmodistos.php:132
+msgid "Alta Modisto"
+msgstr ""
+
+#: modmodistos.php:180
+msgid "Modisto  borrado"
+msgstr ""
+
+#: modmodistos.php:183
+msgid "No se ha podido borrar el Modisto"
+msgstr ""
+
+#: modmodistos.php:202
+msgid "Hacer una compra a Modistos"
+msgstr ""
+
+#: modmodistos.php:251
+msgid "Nuevo Modisto registrado"
+msgstr ""
+
+#: modmodistos.php:255
+#: modproveedores.php:255
+msgid "No se ha podido registrar el nuevo producto"
+msgstr ""
+
+#: modmodistos.php:292
+msgid "Modisto modificado"
+msgstr ""
+
+#: modperfiles.php:97
+msgid "Operaciones sobre Perfiles"
+msgstr ""
+
+#: modperfiles.php:99
+msgid "Crear un nuevo perfil"
+msgstr ""
+
+#: modproductos.php:188
+msgid "Tallas/colores"
+msgstr ""
+
+#: modproductos.php:192
+msgid "Lista de productos"
+msgstr ""
+
+#: modproductos.php:199
+#: xulalmacen.php:45
+#: xulcompras.php:84
+#: xulentrar.php:106
+#: xulmenu4.php:290
+msgid "Local"
+msgstr ""
+
+#: modproductos.php:207
+msgid "No hay productos disponibles"
+msgstr ""
+
+#: modproductos.php:367
+msgid "Operaciones sobre Productos"
+msgstr ""
+
+#: modproductos.php:369
+msgid "Crear un nuevo producto"
+msgstr ""
+
+#: modproveedores.php:32
+msgid "Lista de proveedor"
+msgstr ""
+
+#: modproveedores.php:88
+msgid "Modificando proveedor"
+msgstr ""
+
+#: modproveedores.php:112
+msgid "Operaciones sobre Proveedores"
+msgstr ""
+
+#: modproveedores.php:114
+msgid "Crear un nuevo proveedor"
+msgstr ""
+
+#: modproveedores.php:132
+#: xulmenu4.php:49
+msgid "Alta proveedor"
+msgstr ""
+
+#: modproveedores.php:180
+msgid "Proveedor  borrado"
+msgstr ""
+
+#: modproveedores.php:183
+msgid "No se ha podido borrar el proveedor"
+msgstr ""
+
+#: modproveedores.php:251
+msgid "Nuevo proveedor registrado"
+msgstr ""
+
+#: modproveedores.php:292
+msgid "Proveedor modificado"
+msgstr ""
+
+#: modtemplates.php:15
+msgid "Lista de templates"
+msgstr ""
+
+#: modtemplates.php:73
+msgid "Codigo cambiado"
+msgstr ""
+
+#: modtemplates.php:76
+#: modtemplates.php:97
+msgid "No se puedo cambiar dato"
+msgstr ""
+
+#: modtemplates.php:94
+msgid "Datos extra cambiados"
+msgstr ""
+
+#: modtemplates.php:102
+msgid "Operaciones sobre Templates"
+msgstr ""
+
+#: modtemplates.php:104
+msgid "Crear un nuevo template"
+msgstr ""
+
+#: modtemplates.php:127
+msgid "Nuevo template registrado"
+msgstr ""
+
+#: modtemplates.php:129
+msgid "No se ha podido registrar el nuevo template"
+msgstr ""
+
+#: modusers.php:18
+#: xulentrar.php:104
+msgid "Usuario"
+msgstr ""
+
+#: modusers.php:115
+msgid "Operaciones sobre Usuarios"
+msgstr ""
+
+#: modusers.php:117
+msgid "Crear un nuevo usuario"
+msgstr ""
+
+#: selcb.php:13
+#: xulcompra.php:18
+#: xulcompra.php:19
+msgid "Varias"
+msgstr ""
+
+#: selcolor.php:7
+#: selmarca.php:7
+#: xulavanzado.php:114
+msgid "Elije color"
+msgstr ""
+
+#: selcolor.php:28
+msgid "Colores"
+msgstr ""
+
+#: selcolor.php:67
+msgid "Nuevo color"
+msgstr ""
+
+#: selcolor.php:69
+#: selcolor.php:194
+#: selfamilia.php:53
+msgid "Nuevo"
+msgstr ""
+
+#: selcolor.php:75
+#: selcolor.php:104
+msgid "Tallajes"
+msgstr ""
+
+#: selcolor.php:90
+#: selcolor.php:118
+msgid "Cerrar"
+msgstr ""
+
+#: selcolor.php:153
+msgid "Tallas"
+msgstr ""
+
+#: selcolor.php:192
+msgid "Nueva talla"
+msgstr ""
+
+#: selfamilia2.php:33
+#: selfamilia.php:7
+msgid "Elige familia"
+msgstr ""
+
+#: selfamilia2.php:38
+#: selfamilia2.php:180
+#: selfamilia.php:19
+#: xulavanzado.php:81
+msgid "Familia"
+msgstr ""
+
+#: selfamilia2.php:177
+msgid "Crear nueva"
+msgstr ""
+
+#: selfamilia.php:51
+msgid "Nueva familia"
+msgstr ""
+
+#: selfamilia.php:59
+msgid "Sub familias"
+msgstr ""
+
+#: selimpresion.php:70
+msgid "Aun no ha especificado un precio para este producto, por favor hagalo ahora para imprimir etiquetas"
+msgstr ""
+
+#: selimpresion.php:75
+msgid "Precio:"
+msgstr ""
+
+#: selimpresion.php:102
+msgid "Impresion"
+msgstr ""
+
+#: selmarca.php:42
+msgid "Marcas"
+msgstr ""
+
+#: selmarca.php:95
+#: xulavanzado.php:58
+msgid "Marca"
+msgstr ""
+
+#: selmarca.php:98
+msgid "Crear"
+msgstr ""
+
+#: selproveedor.php:7
+msgid "Elige proveedor"
+msgstr ""
+
+#: selproveedor.php:12
+#: xulavanzado.php:49
+msgid "Proveedor"
+msgstr ""
+
+#: tpvmodular.php:35
+msgid "PVP/Unidad"
+msgstr ""
+
+#: tpvmodular.php:38
+msgid "EFECTIVO"
+msgstr ""
+
+#: tpvmodular.php:39
+msgid "TARJETA"
+msgstr ""
+
+#: tpvmodular.php:40
+msgid "TRANSFERENCIA"
+msgstr ""
+
+#: tpvmodular.php:41
+msgid "GIRO"
+msgstr ""
+
+#: tpvmodular.php:42
+msgid "ENVIO"
+msgstr ""
+
+#: tpvmodular.php:43
+msgid "BONO"
+msgstr ""
+
+#: tpvmodular.php:47
+msgid "Pdte Envio"
+msgstr ""
+
+#: tpvmodular.php:48
+msgid "Enviado"
+msgstr ""
+
+#: tpvmodular.php:49
+msgid "Recibido"
+msgstr ""
+
+#: tpvmodular.php:50
+msgid "Entregado"
+msgstr ""
+
+#: tpvmodular.php:169
+msgid "Ticket de:"
+msgstr ""
+
+#: vercarrito.php:66
+#: vertrans.php:107
+msgid "Carrito vacio"
+msgstr ""
+
+#: vercarrito.php:96
+msgid "Numero de etiquetas"
+msgstr ""
+
+#: vercarrito.php:131
+msgid "Imprimir multiple"
+msgstr ""
+
+#: vercarrito.php:133
+msgid "No se encontro productos listos para etiquetar."
+msgstr ""
+
+#: vertrans.php:79
+msgid "Carrito para Traslado"
+msgstr ""
+
+#: xulalmacen.php:7
+#: xulmenu4.php:98
+#: xulmenu4.php:99
+msgid "Almacen"
+msgstr ""
+
+#: xulalmacen.php:19
+#: xulcompras.php:23
+#: xulmenu4.php:266
+#: xulmenu4.php:374
+#: xulmenu4.php:459
+#: xulmenu4.php:503
+#: xulmenu4.php:523
+#: xulmenu4.php:545
+#: xulproductos.php:60
+msgid "Acciones"
+msgstr ""
+
+#: xulalmacen.php:20
+#: xulcompras.php:24
+#: xulmenu4.php:73
+#: xulmenu4.php:355
+#: xulmenu4.php:446
+msgid "Captura CB"
+msgstr ""
+
+#: xulalmacen.php:32
+#: xulmenu4.php:276
+#: xulmenu4.php:465
+#: xulproductos.php:66
+msgid "Normal"
+msgstr ""
+
+#: xulalmacen.php:33
+#: xulalmacen.php:75
+#: xulcompras.php:50
+#: xulmenu4.php:326
+msgid "Carrito Seleccion"
+msgstr ""
+
+#: xulalmacen.php:58
+#: xulcompras.php:97
+#: xulmenu4.php:303
+#: xulmenu4.php:410
+#: xulmenu4.php:480
+msgid "Ref"
+msgstr ""
+
+#: xulalmacen.php:69
+#: xulcompra.php:64
+#: xulcompras.php:108
+#: xulproductos.php:74
+msgid "Tallas y colores"
+msgstr ""
+
+#: xulalmacen.php:80
+msgid "Trasladar mercancia"
+msgstr ""
+
+#: xulcompra.php:7
+#: xulcompras.php:7
+#: xulmenu4.php:69
+#: xulmenu4.php:76
+#: xulmenu4.php:88
+#: xulmenu4.php:89
+msgid "Compras"
+msgstr ""
+
+#: xulcompras.php:32
+#: xulmenu4.php:375
+msgid "Alta Rapida"
+msgstr ""
+
+#: xulcompras.php:34
+#: xulmenu4.php:46
+#: xulmenu4.php:124
+#: xulmenu4.php:377
+msgid "Ver carrito"
+msgstr ""
+
+#: xulcompras.php:35
+#: xulmenu4.php:128
+#: xulmenu4.php:378
+msgid "Cancelar carrito"
+msgstr ""
+
+#: xulcompras.php:37
+#: xulmenu4.php:380
+msgid "Finalizar compra"
+msgstr ""
+
+#: xulcompras.php:114
+msgid " "
+msgstr ""
+
+#: xulentrar.php:116
+msgid "Contraseña"
+msgstr ""
+
+#: xulentrar.php:133
+msgid "TPV"
+msgstr ""
+
+#: xulentrar.php:134
+msgid "Admin."
+msgstr ""
+
+#: xulentrar.php:136
+msgid "Entrar"
+msgstr ""
+
+#: xulmenu4.php:15
+msgid "Ventana principal"
+msgstr ""
+
+#: xulmenu4.php:51
+#: xulmenu4.php:54
+msgid "Clientes: Alta"
+msgstr ""
+
+#: xulmenu4.php:55
+#: xulmenu4.php:159
+msgid "Alta cliente particular"
+msgstr ""
+
+#: xulmenu4.php:57
+msgid "Usuarios: Alta"
+msgstr ""
+
+#: xulmenu4.php:58
+msgid "Alta usuario"
+msgstr ""
+
+#: xulmenu4.php:61
+#: xulmenu4.php:235
+msgid "Perfiles"
+msgstr ""
+
+#: xulmenu4.php:62
+msgid "Ver perfiles"
+msgstr ""
+
+#: xulmenu4.php:64
+msgid "Familia: Alta"
+msgstr ""
+
+#: xulmenu4.php:65
+msgid "Alta familia"
+msgstr ""
+
+#: xulmenu4.php:67
+msgid "Salir"
+msgstr ""
+
+#: xulmenu4.php:70
+msgid "Continuar compra"
+msgstr ""
+
+#: xulmenu4.php:77
+msgid "Cancelar compra"
+msgstr ""
+
+#: xulmenu4.php:79
+msgid "Productos: Alta"
+msgstr ""
+
+#: xulmenu4.php:80
+msgid "Alta producto"
+msgstr ""
+
+#: xulmenu4.php:82
+msgid "Tiendas: Alta"
+msgstr ""
+
+#: xulmenu4.php:83
+msgid "Alta tienda"
+msgstr ""
+
+#: xulmenu4.php:85
+#: xulmenu4.php:101
+#: xulmenu4.php:102
+#: xulproductos.php:48
+msgid "Productos"
+msgstr ""
+
+#: xulmenu4.php:91
+#: xulmenu4.php:236
+msgid "Tiendas"
+msgstr ""
+
+#: xulmenu4.php:92
+msgid "Ver tiendas"
+msgstr ""
+
+#: xulmenu4.php:94
+#: xulmenu4.php:232
+msgid "Modistos"
+msgstr ""
+
+#: xulmenu4.php:95
+msgid "Ver modistos"
+msgstr ""
+
+#: xulmenu4.php:104
+#: xulmenu4.php:105
+msgid "Proveedores"
+msgstr ""
+
+#: xulmenu4.php:107
+#: xulmenu4.php:108
+msgid "Clientes"
+msgstr ""
+
+#: xulmenu4.php:110
+#: xulmenu4.php:234
+msgid "Usuarios"
+msgstr ""
+
+#: xulmenu4.php:111
+msgid "Ver usuarios"
+msgstr ""
+
+#: xulmenu4.php:113
+#: xulmenu4.php:233
+msgid "Familias"
+msgstr ""
+
+#: xulmenu4.php:114
+msgid "Ver familias"
+msgstr ""
+
+#: xulmenu4.php:116
+#: xulmenu4.php:117
+msgid "Configuración"
+msgstr ""
+
+#: xulmenu4.php:119
+#: xulmenu4.php:120
+msgid "Ver Listados"
+msgstr ""
+
+#: xulmenu4.php:131
+msgid "En Oferta"
+msgstr ""
+
+#: xulmenu4.php:134
+msgid "Es obsoleto"
+msgstr ""
+
+#: xulmenu4.php:137
+msgid "No es obsoleto"
+msgstr ""
+
+#: xulmenu4.php:142
+msgid "Sin Oferta"
+msgstr ""
+
+#: xulmenu4.php:145
+msgid "Reservado"
+msgstr ""
+
+#: xulmenu4.php:148
+msgid "En venta"
+msgstr ""
+
+#: xulmenu4.php:151
+msgid "Lista proveedores"
+msgstr ""
+
+#: xulmenu4.php:154
+msgid "Lista clientes"
+msgstr ""
+
+#: xulmenu4.php:156
+msgid "Alta clientes empresa"
+msgstr ""
+
+#: xulmenu4.php:162
+#: xulmenu4.php:164
+#: xulmenu4.php:167
+#: xulmenu4.php:212
+msgid "Buzon"
+msgstr ""
+
+#: xulmenu4.php:163
+#: xulmenu4.php:747
+msgid "Hacer sugerencia"
+msgstr ""
+
+#: xulmenu4.php:165
+msgid "Hacer aviso de fallo"
+msgstr ""
+
+#: xulmenu4.php:168
+msgid "Hacer sugerencia de mantenimiento"
+msgstr ""
+
+#: xulmenu4.php:170
+msgid "Nota normal"
+msgstr ""
+
+#: xulmenu4.php:171
+#: xulmenu4.php:217
+msgid "Enviar nota normal"
+msgstr ""
+
+#: xulmenu4.php:173
+msgid "Nota importante"
+msgstr ""
+
+#: xulmenu4.php:174
+#: xulmenu4.php:218
+msgid "Enviar nota importante"
+msgstr ""
+
+#: xulmenu4.php:177
+msgid "Lanzar TPV"
+msgstr ""
+
+#: xulmenu4.php:198
+msgid "Templates"
+msgstr ""
+
+#: xulmenu4.php:199
+msgid "Alta template"
+msgstr ""
+
+#: xulmenu4.php:200
+msgid "Editar CSS"
+msgstr ""
+
+#: xulmenu4.php:201
+msgid "Editar xul CSS"
+msgstr ""
+
+#: xulmenu4.php:202
+msgid "Editar JS"
+msgstr ""
+
+#: xulmenu4.php:203
+msgid "Mostrar log"
+msgstr ""
+
+#: xulmenu4.php:204
+msgid "Mostrar sesion"
+msgstr ""
+
+#: xulmenu4.php:219
+msgid "Informar sugerencia o bug"
+msgstr ""
+
+#: xulmenu4.php:227
+msgid "Configuracion"
+msgstr ""
+
+#: xulmenu4.php:237
+msgid "Listados"
+msgstr ""
+
+#: xulmenu4.php:252
+msgid "Operador: "
+msgstr ""
+
+#: xulmenu4.php:277
+msgid "Acciones Carrito"
+msgstr ""
+
+#: xulmenu4.php:278
+#: xulmenu4.php:393
+msgid "Capturar"
+msgstr ""
+
+#: xulmenu4.php:313
+msgid "Solo con stock"
+msgstr ""
+
+#: xulmenu4.php:314
+msgid "Mostrar obsoletos"
+msgstr ""
+
+#: xulmenu4.php:327
+msgid "Trasladar mercancía"
+msgstr ""
+
+#: xulmenu4.php:363
+msgid "Añadir"
+msgstr ""
+
+#: xulmenu4.php:417
+#: xulmenu4.php:482
+msgid "ver obsoletos"
+msgstr ""
+
+#: xulmenu4.php:460
+#: xulproductos.php:61
+msgid "Alta de producto"
+msgstr ""
+
+#: xulmenu4.php:466
+#: xulmenu4.php:492
+#: xulproductos.php:67
+#: xulproductos.php:80
+msgid "Busqueda avanzada"
+msgstr ""
+
+#: xulmenu4.php:586
+msgid "¿Esta seguro?"
+msgstr ""
+
+#: xulmenu4.php:587
+msgid "destino:"
+msgstr ""
+
+#: xulmenu4.php:588
+msgid "Moviendo mercancía a: "
+msgstr ""
+
+#: xulmenu4.php:735
+msgid "No eres un usuario autorizado para TVP"
+msgstr ""
+

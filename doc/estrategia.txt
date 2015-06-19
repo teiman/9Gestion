@@ -1,0 +1,18 @@
+*** Estrategia de Licencias de 9Gestion Moda ***
+
+9Gestion Moda se distribuye con licencia LGPL.
+Además se incluyen una serie de módulos/librerías con sus propias licencias.
+LGPL permite la mayor libertad a la hora de enlazar con cualquier modulo que se quiera agregar a la aplicación, y redistribuir el resultado como LGPL.
+Los módulos son opcionales, en la configuración por defecto 9Gestion Moda estarán activados.
+
+Si usted hace modificaciones de esta aplicación, y las distribuye. Debe acompañarlas del código fuente, y del fichero de la licencia LGPL.
+
+
+
+Oscar Vives
+Grupo 9Lands
+Departamento de Software Libre
+ 
+
+
+

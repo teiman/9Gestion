@@ -1,0 +1,91 @@
+
+
+
+treecol,treechildren {
+	  /*font-size: 100%*/ 	
+	  /*font-size: 110%;*/  
+	  };
+
+
+treechildren::-moz-tree-row(selected) { 
+	/*background-color: #FFFFAA;*/ 
+	/*color: black;*/
+	}
+treechildren::-moz-tree-row(odd) { 
+	/*background-color: #EEEEEE;*/
+	/*border:1px solid green;*/ 
+}
+
+treechildren::-moz-tree-row(odd, selected) { 
+	/*background-color: #FFFFAA;*/
+	/*border:1px solid yellow;*/
+}
+
+treechildren::-moz-tree-cell-text(selected) { 
+	/*color: #000000;*/
+	 /*border:1px solid blue;
+	 color: white;*/
+	 font-weight: bold;
+}
+
+treechildren::-moz-tree-cell-text(odd, selected) { 
+	/*color: #000000;*/
+	/*border:1px solid red;*/ 
+}
+
+
+treechildren:-moz-tree-cell(colum_0) {
+  
+  /*background-color: #ccc;*/
+/*  background-color: Window;*/  
+  /*  -moz-appearance: menuitem;
+	-moz-appearance: toolbarbutton;*/
+}
+
+treechildren:-moz-tree-cell(separador) {
+  /*background-color: Window;*/  
+}
+
+
+
+
+treechildren:-moz-tree-cell(colum_1) {
+    /*background-color: Window;*/
+	/*background-color: #ccc;
+	background-color: Window;*/
+}
+treechildren:-moz-tree-cell(celda) {  
+   border-right: 1px solid #ccc;
+}
+treechildren:-moz-tree-cell(separador) {  
+    /*background-color: Window;
+	text-align: center;*/
+}
+
+
+treechildren:-moz-tree-cell(firstLine) {  
+    /*background-color: red;*/	
+	border-top: 2px solid #ccc;
+}
+
+
+.listado {
+	font-size: 14px;
+}
+
+
+.compacta {
+	font-size: 14px;
+}
+
+.media {
+	font-size: 18px;
+}
+
+.grande {
+	font-size: 30px
+}
+
+.salir {
+	font-size: 18px
+}
